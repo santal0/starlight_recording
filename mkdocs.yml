@@ -1,14 +1,21 @@
-site_name: 北门观测站
-site_url: https://kitty-in-github.github.io/starlight_recording/
+#基础设置
+site_name: 北门观测站 #站点名
+site_url: https://kitty-in-github.github.io/starlight_recording/ #默认站点地址
+
+#markdown扩展语法
 markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+
+#站点主题
 theme:
   name: material
+
+#设置分级页面
 nav: 
   - 主页: index.md
-  - 测试: test.md
+  - 教程: test.md
   - 故事: 
     - 示例: story/example.md
   - 势力介绍: 
