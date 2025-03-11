@@ -1,0 +1,25 @@
+site_name: 北门观测站
+site_url: https://kitty-in-github.github.io/starlight_recording/
+markdown_extensions:
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+theme:
+  name: material
+nav: 
+  - 主页: index.md
+  - 测试: test.md
+  - 故事: 
+    - 示例: story/example.md
+  - 势力介绍: 
+    - 索拉: power introduce/solar.md
+    - 莫汝拉: power introduce/Morula.md
+    - 罅隙星域: power introduce/CrackSpace.md
+  - 人物: 
+    - 示例: character/nobody.md
+  - 星球:
+    - 索拉: 
+      - 天定甲二: planet/solar/TianDingFirstNo2.md
+  - 科技:
+    - 遗产: 
+      - 金丝黄玉双龙冕: technology/heritage/GoldDoubleGragonCrown.md
