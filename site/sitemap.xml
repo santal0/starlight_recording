@@ -2,38 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/memory/</loc>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/test/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
-         <loc>https://kitty-in-github.github.io/starlight_recording/character/nobody/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <loc>https://kitty-in-github.github.io/starlight_recording/character/Dan%20Ji/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/character/Lorava/</loc>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/planet/solar/TianDingFirstNo2/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/power%20introduce/CrackSpace/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/power%20introduce/Morula/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/power%20introduce/solar/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/story/example/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
     </url>
     <url>
          <loc>https://kitty-in-github.github.io/starlight_recording/technology/heritage/GoldDoubleGragonCrown/</loc>
-         <lastmod>2025-03-11</lastmod>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/trainning/BorrowClassroom/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/wonder/City%20of%20Fresh/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/wonder/City%20of%20The%20Broken/</loc>
+         <lastmod>2025-03-17</lastmod>
+    </url>
+    <url>
+         <loc>https://kitty-in-github.github.io/starlight_recording/wonder/SpaceGreatWall/</loc>
+         <lastmod>2025-03-17</lastmod>
     </url>
 </urlset>
