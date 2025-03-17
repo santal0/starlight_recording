@@ -11,10 +11,14 @@
             "id": "8272ee960463d6b4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "memory.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "memory"
             }
           }
         ]
@@ -164,8 +168,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b256ca97ee5040c5",
+  "active": "8272ee960463d6b4",
   "lastOpenFiles": [
+    "img/幻协合照.jpg",
+    "memory.md",
+    "img",
     "technology/heritage/GoldDoubleGragonCrown.md",
     "power introduce/Morula.md",
     "power introduce/CrackSpace.md",
@@ -188,7 +195,6 @@
     "power introduce",
     "势力介绍/solar.md",
     "solar.md",
-    "势力介绍",
-    "新建文件夹"
+    "势力介绍"
   ]
 }
