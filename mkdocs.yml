@@ -23,10 +23,15 @@ nav:
     - 莫汝拉: power introduce/Morula.md
     - 罅隙星域: power introduce/CrackSpace.md
   - 人物: 
-    - 示例: character/nobody.md
+    - 罗拉瓦: character/Lorava.md
+    - 丹佶: character/Dan Ji.md
   - 星球:
     - 索拉: 
       - 天定甲二: planet/solar/TianDingFirstNo2.md
   - 科技:
     - 遗产: 
       - 金丝黄玉双龙冕: technology/heritage/GoldDoubleGragonCrown.md
+  - 奇观:
+    - 破碎之城: wonder/City of The Broken.md
+    - 血肉之城: wonder/City of Fresh.md
+    - 太空长城: wonder/SpaceGreatWall.md
