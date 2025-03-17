@@ -1,4 +1,7 @@
 # 借教室
+
+完整版操作手册参见http://jxzygl.zju.edu.cn/zypt/teacher/opeMan
+
 1. 登录这个网站 http://jxzygl.zju.edu.cn/
 2. 点这个”教室借用“![[Pasted image 20250317122234.png | 400]]
 3. 点”普通借用“![[Pasted image 20250317122338.png | 400]]
