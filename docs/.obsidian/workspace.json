@@ -8,35 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8272ee960463d6b4",
+            "id": "e5260655e4473871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "memory.md",
+                "file": "story/SeedingsInMine/No6.1.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "memory"
-            }
-          },
-          {
-            "id": "536832247758f665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "trainning/BorrowClassroom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "BorrowClassroom"
+              "title": "No6.1"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,8 +168,30 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b256ca97ee5040c5",
+  "active": "e5260655e4473871",
   "lastOpenFiles": [
+    "story/SeedingsInMine/No6.md",
+    "story/SeedingsInMine/No6.1.md",
+    "story/SeedingsInMine/No13.md",
+    "story/SeedingsInMine/No12.md",
+    "story/DeepSeek.md",
+    "story/SeedingsInMine/No8.md",
+    "story/SeedingsInMine/No5.md",
+    "story/SeedingsInMine/No7.md",
+    "story/SeedingsInMine/No10.md",
+    "story/SeedingsInMine/No11.md",
+    "story/SeedingsInMine/No9.md",
+    "story/SeedingsInMine/No4.md",
+    "story/SeedingsInMine/No3.md",
+    "story/SeedingsInMine/No2.md",
+    "story/SeedingsInMine/No1.md",
+    "ClubClass.md",
+    "character/Dan Ji.md",
+    "memory.md",
+    "N12",
+    "ZD1.md",
+    "story/SeedingsInMine",
+    "trainning/BorrowClassroom.md",
     "trainning",
     "img/Pasted image 20250317135811.png",
     "img/Pasted image 20250317134958.png",
@@ -196,8 +203,6 @@
     "img/Pasted image 20250317122418.png",
     "img/Pasted image 20250317122338.png",
     "img/Pasted image 20250317122234.png",
-    "memory.md",
-    "trainning/BorrowClassroom.md",
     "img",
     "technology/heritage/GoldDoubleGragonCrown.md",
     "power introduce/Morula.md",
@@ -205,22 +210,11 @@
     "story/example.md",
     "planet/solar/TianDingFirstNo2.md",
     "power introduce/solar.md",
-    "莫茹拉帝国概览.md",
-    "test.md",
-    "index.md",
-    "character/nobody.md",
     "planet/solar",
     "planet",
     "technology/heritage",
     "technology",
-    "settings/character.md",
     "character",
-    "settings",
-    "story",
-    "势力介绍/index.md",
-    "power introduce",
-    "势力介绍/solar.md",
-    "solar.md",
-    "势力介绍"
+    "settings"
   ]
 }

@@ -1,5 +1,5 @@
 #基础设置
-site_name: 北门观测站 #站点名
+site_name: 星弦·北门观测站 #站点名
 site_url: https://kitty-in-github.github.io/starlight_recording/ #默认站点地址
 
 #markdown扩展语法
@@ -10,14 +10,20 @@ markdown_extensions:
 
 #站点主题
 theme:
-  name: material
+  name: material #主题名称
+  #logo: img/logo.png #网页种左上角的图表
+  favicon: img/favicon.png #标签页上的图标
 
 #设置分级页面
 nav: 
   - 主页: index.md
-  - 教程: test.md
   - 故事: 
-    - 示例: story/example.md
+    - 深潜者: story/DeepSeek.md
+    - 米兰卡斯托大学: story/MilanCastoUniversity.md
+    - 发芽的钻井(不定期更新中):
+      - 楔子:  story/SeedingsInMine/No1.md
+    - 罅隙星域考察报告:
+      - No.1: story/CSreport/CSreportNo1.md
   - 势力介绍: 
     - 索拉: power introduce/solar.md
     - 莫汝拉: power introduce/Morula.md
@@ -25,6 +31,10 @@ nav:
   - 人物: 
     - 罗拉瓦: character/Lorava.md
     - 丹佶: character/Dan Ji.md
+    - 海月: character/SeaMoon.md
+    - 钋先生: character/Mr Po.md
+    - 汤光: character/Tang Guang.md
+    - 耘: character/Yun.md
   - 星球:
     - 索拉: 
       - 天定甲二: planet/solar/TianDingFirstNo2.md
@@ -35,5 +45,5 @@ nav:
     - 破碎之城: wonder/City of The Broken.md
     - 血肉之城: wonder/City of Fresh.md
     - 太空长城: wonder/SpaceGreatWall.md
-  - 训练:
+  - 骨干手册:
     - 借教室: trainning/BorrowClassroom.md
