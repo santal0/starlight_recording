@@ -8,10 +8,33 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-#站点主题
+#站点设置
 theme:
+  features:
+    - navigation.tabs #启用导航选项卡
+    - navigation.instant
+    - navigation.instant.progress #启用缓冲条
+    - navigation.prune #启用导航修剪
+    - toc.follow #启用导航跟随
+    - navigation.top #返回顶部按钮
+    
+  palette:
+    # 日间模式
+    - scheme: default
+      primary: black
+      toggle:
+        icon: material/eye #按键图标
+        name: 潜入黑暗 #图表提示词
+
+    # 夜间模式
+    - scheme: slate
+      primary: white
+      toggle:
+        icon: material/eye-outline
+        name: 迎接光明
+
   name: material #主题名称
-  #logo: img/logo.png #网页种左上角的图表
+  logo: img/favicon.png #网页种左上角的图表
   favicon: img/favicon.png #标签页上的图标
 
 #设置分级页面
@@ -47,3 +70,4 @@ nav:
     - 太空长城: wonder/SpaceGreatWall.md
   - 骨干手册:
     - 借教室: trainning/BorrowClassroom.md
+    - 站务工具: trainning/WebsiteTools.md

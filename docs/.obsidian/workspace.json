@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "424982efe2dbf83b",
+        "id": "7bf2748b8cce3a3b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5260655e4473871",
+            "id": "ad5648800a708d96",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "story/SeedingsInMine/No6.1.md",
-                "mode": "source",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "No6.1"
+              "title": "新标签页"
             }
           }
         ]
@@ -168,12 +164,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e5260655e4473871",
+  "active": "ad5648800a708d96",
   "lastOpenFiles": [
-    "story/SeedingsInMine/No6.md",
-    "story/SeedingsInMine/No6.1.md",
+    "index.md",
+    "trainning/WebsiteTools.md",
+    "story/SeedingsInMine/No14.md",
+    "img/logo.png",
+    "img/星弦徽标带文字 黑字透明底.png",
+    "story/SeedingsInMine/No1.md",
     "story/SeedingsInMine/No13.md",
     "story/SeedingsInMine/No12.md",
+    "胎死腹中？.md",
+    "未命名 1.md",
+    "technology/ExplosionRobort.md",
+    "technology/heritage/GoldDoubleGragonCrown.md",
+    "story/SeedingsInMine/No2.md",
+    "story/SeedingsInMine/No6.md",
     "story/DeepSeek.md",
     "story/SeedingsInMine/No8.md",
     "story/SeedingsInMine/No5.md",
@@ -183,8 +189,6 @@
     "story/SeedingsInMine/No9.md",
     "story/SeedingsInMine/No4.md",
     "story/SeedingsInMine/No3.md",
-    "story/SeedingsInMine/No2.md",
-    "story/SeedingsInMine/No1.md",
     "ClubClass.md",
     "character/Dan Ji.md",
     "memory.md",
@@ -201,15 +205,7 @@
     "img/Pasted image 20250317132741.png",
     "img/Pasted image 20250317122544.png",
     "img/Pasted image 20250317122418.png",
-    "img/Pasted image 20250317122338.png",
-    "img/Pasted image 20250317122234.png",
     "img",
-    "technology/heritage/GoldDoubleGragonCrown.md",
-    "power introduce/Morula.md",
-    "power introduce/CrackSpace.md",
-    "story/example.md",
-    "planet/solar/TianDingFirstNo2.md",
-    "power introduce/solar.md",
     "planet/solar",
     "planet",
     "technology/heritage",
