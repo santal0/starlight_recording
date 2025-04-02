@@ -66,12 +66,21 @@ nav:
       - 金丝黄玉双龙冕: technology/heritage/GoldDoubleGragonCrown.md
     - 索拉:
       - SK系列化学剂: technology/SolarTec/SKgas.md
+      - “暗尘”科技: technology/SolarTec/DaekDust.md
   - 奇观:
     - 破碎之城: wonder/City of The Broken.md
     - 血肉之城: wonder/City of Fresh.md
     - 太空长城: wonder/SpaceGreatWall.md
+  - 自然:
+    - 疾病:
+      - 血石病: natural/disease/BloodStoneSyndrome.md
+    - 生物:
+      - 人类: natural/creature/human.md
+      - 莫汝拉: natural/creature/furry.md
+      - 赤地螟: natural/creature/Famcust.md
   - 稗官野史:
     - 在星途所员工大会上有关沙雨星的提案两则: FakeHistory/Two proposals.md
+    - 星弦幻协QQ群成员守则: FakeHistory/Rules 1.md
   - 骨干手册:
     - 借教室: trainning/BorrowClassroom.md
     - 站务工具: trainning/WebsiteTools.md

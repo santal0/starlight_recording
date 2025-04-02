@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "490443e601c9ab7c",
+        "id": "69393ee327c25082",
         "type": "tabs",
         "children": [
           {
-            "id": "4477bd77e8049852",
+            "id": "10f9351064b6286b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "natural/creature/Famcust.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Famcust"
             }
           }
         ]
@@ -164,36 +168,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4477bd77e8049852",
+  "active": "10f9351064b6286b",
   "lastOpenFiles": [
+    "natural/creature/human.md",
+    "natural/creature/Famcust.md",
+    "natural/creature/furry.md",
+    "natural/creature",
+    "technology/SolarTec/DarkDust.md",
+    "natural/disease",
+    "technology/SolarTec/SKgas.md",
+    "FakeHistory/Rules 1.md",
+    "natural/disease/BloodStoneSyndrome.md",
+    "natural",
+    "wonder/City of Fresh.md",
+    "wonder/City of The Broken.md",
+    "wonder/SpaceGreatWall.md",
+    "FakeHistory/pokemon.md",
+    "FakeHistory/Two proposals.md",
+    "test.md",
+    "memory.md",
+    "trainning/WebsiteTools.md",
+    "story/CSreport/CSreportNo1.md",
+    "story/DeepSeek.md",
+    "story/MilanCastoUniversity.md",
+    "story/example.md",
     "story/SeedingsInMine/No14.md",
     "technology/ExplosionRobort.md",
-    "technology/SolarTec/SKgas.md",
-    "story/MilanCastoUniversity.md",
     "story/SeedingsInMine/No1.md",
-    "story/DeepSeek.md",
     "story/SeedingsInMine/No13.md",
     "story/SeedingsInMine/No7.md",
     "technology/SolarTec",
     "story/SeedingsInMine/No4.md",
     "story/SeedingsInMine/No5.md",
-    "story/SeedingsInMine/No6.md",
-    "story/SeedingsInMine/No9.md",
-    "story/SeedingsInMine/No10.md",
-    "story/SeedingsInMine/No11.md",
-    "story/SeedingsInMine/No8.md",
-    "story/SeedingsInMine/No12.md",
-    "trainning/oldsayings.md",
-    "trainning/WebsiteTools.md",
-    "trainning/BorrowClassroom.md",
     "trainning/img/Pasted image 20250317122234.png",
-    "technology/heritage/GoldDoubleGragonCrown.md",
-    "technology/heritage/GhostShip.md",
-    "FakeHistory/Two proposals.md",
-    "character/Yun.md",
-    "character/Tang Guang.md",
-    "character/Dan Ji.md",
-    "character/SeaMoon.md",
     "img/logo.png",
     "img/星弦徽标带文字 黑字透明底.png",
     "N12",
@@ -208,9 +215,6 @@
     "img/Pasted image 20250317122544.png",
     "img",
     "planet/solar",
-    "planet",
-    "technology/heritage",
-    "technology",
-    "character"
+    "planet"
   ]
 }
