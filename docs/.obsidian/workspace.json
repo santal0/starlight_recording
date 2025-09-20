@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93c31fdc5b166a1d",
+        "id": "ef2c594a9abc941a",
         "type": "tabs",
         "children": [
           {
-            "id": "1d69f3b4f190271d",
+            "id": "fe636c13e80c9e05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "trainning/PublicityHelper.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "PublicityHelper"
             }
           }
         ]
@@ -156,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -164,12 +169,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b256ca97ee5040c5",
+  "active": "fe636c13e80c9e05",
   "lastOpenFiles": [
-    "trainning/WebsiteTools.md",
-    "trainning/PublicityHelper.md",
-    "trainning/oldsayings.md",
     "trainning/BorrowClassroom.md",
+    "trainning/WriteWeChatTweet.md",
+    "memory.md",
+    "trainning/WebsiteTools.md",
+    "trainning/Orgnization/Administrative.md",
+    "trainning/BeYourself.md",
+    "trainning/PublicityHelper.md",
+    "trainning/HowToWriteTD.md",
+    "test.md",
+    "index.md",
+    "胎死腹中？.md",
+    "trainning/oldsayings.md",
+    "trainning/Orgnization/未命名.md",
+    "trainning/Orgnization",
     "natural/creature/Famcust.md",
     "natural/creature/human.md",
     "natural/creature/furry.md",
@@ -185,16 +200,7 @@
     "wonder/SpaceGreatWall.md",
     "FakeHistory/pokemon.md",
     "FakeHistory/Two proposals.md",
-    "test.md",
-    "memory.md",
     "story/CSreport/CSreportNo1.md",
-    "story/DeepSeek.md",
-    "story/MilanCastoUniversity.md",
-    "story/example.md",
-    "story/SeedingsInMine/No14.md",
-    "technology/ExplosionRobort.md",
-    "story/SeedingsInMine/No1.md",
-    "story/SeedingsInMine/No13.md",
     "technology/SolarTec",
     "trainning/img/Pasted image 20250317122234.png",
     "img/logo.png",
@@ -210,7 +216,6 @@
     "img/Pasted image 20250317132741.png",
     "img/Pasted image 20250317122544.png",
     "img",
-    "planet/solar",
-    "planet"
+    "planet/solar"
   ]
 }

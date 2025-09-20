@@ -1,4 +1,9 @@
 # 借教室
+***至少是免费的***
+
+撰写日期 2025/9/20
+
+天天开心
 
 完整版操作手册参见http://jxzygl.zju.edu.cn/zypt/teacher/opeMan
 
