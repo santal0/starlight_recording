@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ef2c594a9abc941a",
+        "id": "4d51a9dd96b01d49",
         "type": "tabs",
         "children": [
           {
-            "id": "fe636c13e80c9e05",
+            "id": "1e161f74a0bac3a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "trainning/PublicityHelper.md",
+                "file": "trainning/HumanResources/OurDuty.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "PublicityHelper"
+              "title": "OurDuty"
             }
           }
         ]
@@ -169,38 +169,39 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fe636c13e80c9e05",
+  "active": "1e161f74a0bac3a6",
   "lastOpenFiles": [
-    "trainning/BorrowClassroom.md",
-    "trainning/WriteWeChatTweet.md",
-    "memory.md",
-    "trainning/WebsiteTools.md",
-    "trainning/Orgnization/Administrative.md",
-    "trainning/BeYourself.md",
-    "trainning/PublicityHelper.md",
+    "trainning/HumanResources/Organization/Publicity.md",
+    "trainning/HumanResources/Organization/DigitalMarketing.md",
+    "trainning/HumanResources/Organization/Administrative.md",
+    "trainning/HumanResources/OurDuty.md",
+    "FakeHistory/Two proposals.md",
+    "FakeHistory/Rules 1.md",
+    "FakeHistory/pokemon.md",
     "trainning/HowToWriteTD.md",
+    "trainning/BeYourself.md",
+    "trainning/WriteWeChatTweet.md",
+    "trainning/PlanningProposal_Template.md",
+    "trainning/PublicityHelper.md",
+    "trainning/WebsiteTools.md",
+    "trainning/HumanResources/未命名.md",
+    "trainning/HumanResources/Organization",
+    "trainning/BorrowClassroom.md",
+    "character/Dan_Ji.md",
+    "natural/creature/furry.md",
+    "natural/creature/Famcust.md",
+    "natural/creature/human.md",
+    "memory.md",
     "test.md",
     "index.md",
     "胎死腹中？.md",
     "trainning/oldsayings.md",
-    "trainning/Orgnization/未命名.md",
-    "trainning/Orgnization",
-    "natural/creature/Famcust.md",
-    "natural/creature/human.md",
-    "natural/creature/furry.md",
+    "trainning/HumanResources",
     "natural/creature",
     "technology/SolarTec/DarkDust.md",
     "natural/disease",
     "technology/SolarTec/SKgas.md",
-    "FakeHistory/Rules 1.md",
-    "natural/disease/BloodStoneSyndrome.md",
     "natural",
-    "wonder/City of Fresh.md",
-    "wonder/City of The Broken.md",
-    "wonder/SpaceGreatWall.md",
-    "FakeHistory/pokemon.md",
-    "FakeHistory/Two proposals.md",
-    "story/CSreport/CSreportNo1.md",
     "technology/SolarTec",
     "trainning/img/Pasted image 20250317122234.png",
     "img/logo.png",
@@ -215,7 +216,6 @@
     "img/Pasted image 20250317132814.png",
     "img/Pasted image 20250317132741.png",
     "img/Pasted image 20250317122544.png",
-    "img",
-    "planet/solar"
+    "img"
   ]
 }
