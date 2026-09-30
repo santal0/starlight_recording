@@ -6,6 +6,11 @@ site_url: https://kitty-in-github.github.io/starlight_recording/ #默认站点�
 #markdown扩展语法
 markdown_extensions:
   - def_list
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tasklist:
       custom_checkbox: true
   - admonition #MkDocs 警告框

@@ -30,9 +30,36 @@
 
 [举办活动](TheDepartmentOfLove/TheFullProgressOfHoldingClubActivities.md)
 
-![](img/活动举办具体流程.jpg)
 
-![](img/幻协人力调度工程.png)
+```mermaid
+%%{init: {"flowchart": {"curve": "linear", "nodeSpacing": 40, "rankSpacing": 55}}}%%
+flowchart TB
+    organizer(["<span style='color:#1e3a8a'>活动负责人</span>"])
+    dispatch{{"<span style='color:#4c1d95'>调度中心<br/>（抽卡）</span>"}}
+    operators[["<span style='color:#14532d'>全体干员<br/>（待命）</span>"]]
+
+    organizer -->|发布任务| dispatch
+    dispatch -->|人力资源调度| operators
+    operators -->|没空，反馈给调度中心| dispatch
+    operators -->|有空，响应调度| organizer
+
+    organizer -.- process["<span style='color:#334155'>需要熟悉活动流程</span>"]
+    dispatch -.- lottery["<span style='color:#334155'>抽签程序需要写好</span>"]
+    lottery -.- local["<span style='color:#334155'>目前需由调度员<br/>在个人电脑上执行</span>"]
+    local -.- automation["<span style='color:#334155'>需要探索无人化调度方案</span>"]
+    dispatch -.- records["<span style='color:#334155'>进行人力调度的同时<br/>进行工作记录</span>"]
+    operators -.- roster["<span style='color:#334155'>每个短学期<br/>普查一次干员名单</span>"]
+    operators -.- preferences["<span style='color:#334155'>记录每名干员的工作倾向<br/>会影响干员抽签系统中的抽签权重</span>"]
+
+    classDef organizerRole fill:#dbeafe,stroke:#2563eb,color:#1e3a8a,stroke-width:3px,font-weight:bold;
+    classDef dispatchRole fill:#ede9fe,stroke:#7c3aed,color:#4c1d95,stroke-width:3px,font-weight:bold;
+    classDef operatorRole fill:#dcfce7,stroke:#16a34a,color:#14532d,stroke-width:3px,font-weight:bold;
+    classDef note fill:#f1f5f9,stroke:#94a3b8,color:#334155,stroke-width:1px,stroke-dasharray:4 4;
+    class organizer organizerRole;
+    class dispatch dispatchRole;
+    class operators operatorRole;
+    class process,lottery,local,automation,records,roster,preferences note;
+```
 
 ## 社长
 为了爱戴上枷锁的傻瓜。当社团不健康时，你需要承担几乎所有的工作；而在社团较为健康时，你至少也需要做到以下的事情：
